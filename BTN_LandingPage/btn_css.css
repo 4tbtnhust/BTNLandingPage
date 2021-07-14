@@ -1,0 +1,41 @@
+body{
+    font-family: Candara;
+}
+header {
+    padding: 15px;
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Candara;
+    text-align: center;
+    border-style: dashed;
+    border-color: black;
+}
+
+nav{
+    padding: 15px;
+    float: right;
+    width: 30%;
+    height: 125px;
+    background-color: cornflowerblue;
+    border-style: dashed;
+    border-color: black;
+    border-top: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+article {
+    background-color: cornflowerblue;
+    padding: 15px;
+}
+
+footer {
+    font-style: italic;
+    padding: 15px;
+    background-color: cornflowerblue;
+    border-style: dashed;
+    border-color: black;
+}
